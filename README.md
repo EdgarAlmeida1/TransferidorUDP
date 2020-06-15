@@ -28,4 +28,5 @@
 * Os programas (servidor e dois clientes) foram compilados, executados e testados em três máquinas virtuais Linux diferentes com IPs diferentes, estando em uma mesma rede. Não foi feito o teste em uma máquina igual e nem em sistema Windows.
 * As maquinas virtuais continham as seguintes configurações:
 	* Linux kali1 5.6.0-kali1-amd64 #1 SMP Debian 5.6.7-1kali1 (2020-05-12) x86_64 GNU/Linux
+	* gcc version 9.3.0 (Debian 9.3.0-12)
 
