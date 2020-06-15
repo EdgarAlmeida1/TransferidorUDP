@@ -7,9 +7,9 @@
 > Bruno Guazzelli Batista
 
 ### Informações do grupo
-> Edgar Davi Cunha de Almeida - 2018004916
-> Luiz Sérgio Alves Rodrigues - 2017020951
-> Rafael Antunes Vieira - 2018000980
+* Edgar Davi Cunha de Almeida - 2018004916
+* Luiz Sérgio Alves Rodrigues - 2017020951
+* Rafael Antunes Vieira - 2018000980
 
 ### Instruções de Compilação
 * Server: g++ server.cpp -o server
